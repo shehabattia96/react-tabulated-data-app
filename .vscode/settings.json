@@ -1,0 +1,6 @@
+{
+    "jest.jestCommandLine": "node_modules/jest/bin/jest.js",
+    "jest.rootPath": "tests",
+    "javascript.preferences.importModuleSpecifier": "non-relative",
+    "javascript.preferences.importModuleSpecifierEnding": "js",
+}
